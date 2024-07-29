@@ -3,6 +3,6 @@ This public repository provides archived version of the website: https://shohid.
 
 - **If the actual website is blocked in your area, you can visit archived version here:**  https://scholarsentinel.github.io/shohid.info
 
-- For downloading your own copy of the website, follow instructions here:  https://github.com/scholarentinel/shohid.info_arxiv
+- For downloading your own copy of the website, follow instructions here:  https://github.com/scholarsentinel/shohid.info_arxiv
 
 ![image](webpage_icon.png)
